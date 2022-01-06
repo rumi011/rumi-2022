@@ -1,0 +1,176 @@
+.focused-area {
+    display: flex;
+    margin-left: 150px;
+    margin-top: 120px;
+    height: 480px;
+}
+.focused-mission-left h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-size: 50px;
+    font-weight: 900;
+}
+#focused-headline {
+    border-left: 3px tomato solid;
+    padding-left: 15px;
+}
+
+#bt-explore{
+    display: inline-block;
+    text-decoration: none;
+    background-image: linear-gradient(45deg, salmon, tomato);
+    border-radius: 10px;
+    padding: 14px;
+    color: white;
+    font-weight: 700;
+    margin-top: 5px;
+}
+.focused-mission-right {
+    margin-left: 100px;
+   
+}
+.focused-mission-right img {
+    width: 60%;
+
+}
+
+.mission-tittle {
+    font-size: 50px;
+    font-weight: 900;
+    margin-bottom: 50px;
+}
+.heighter {
+    color: tomato;
+}
+
+
+.mission-area {
+    display: flex;
+    margin-left: 150px;
+    margin-right: 80px;
+
+}
+.mission-sec {
+    background-color: thistle;
+    margin: 12px;
+}
+.vission-sec {
+    background-color: wheat;
+    margin: 12px;
+}
+.goals-sec {
+    background-color: tomato;
+    margin: 12px;
+}
+.aim-sec {
+    border-radius: 20px;
+    padding: 20px;
+    width: 30%;
+
+}
+.aim-sec img {
+    width: 150px; 
+    height: 150px; 
+}
+
+
+*{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#my-name {
+    color: salmon;
+}
+
+.develop-area{
+    margin-bottom: 92px;
+}
+.develop-sec {
+    display: flex;
+    justify-content: space-around;
+
+}
+.develop-left img{
+    width: 200%;
+    margin-left: 100px;
+}
+.develop-left {
+    width: 14%;
+    margin-top: 120px;
+}
+.develop-right{
+    width: 65%;
+}
+
+.develop-details{
+    margin-left: 180px;
+    margin-top: 140px;
+    margin-right: 50px;
+}
+.develop-details h1 {
+    font-size: 50px;
+}
+
+.develop-details p {
+    color: black;
+    font-size: 20px;
+}
+
+
+.mission-title {
+    margin-top: 70px;
+    font-size: 30px;
+    font-weight: 900;
+}
+.community-tittle {
+    font-size: 30px;
+    font-weight: 900;
+}
+.community {
+    display: flex;
+    margin-left: 150px;
+}
+.community-img {
+    margin-left: 100px;
+
+}
+.community-img img {
+    width: 60%;
+}
+.community-area p {
+    font-size: 20px;
+
+}
+#clints-area {
+    display: flex;
+    margin-left: 150px;
+    margin-bottom: 50px;
+}
+.Clints-title {
+    margin-top: 80px;
+    font-size: 30px;
+    font-weight: 900;
+}
+.clint-logo {
+    border: 2px solid slategrey ;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 15px;
+}
+.clint-logo img {
+    width: 50%;
+    align-content: center;
+} 
+footer{
+    background-color: black;
+    width: 100%;
+    height: 150px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    text-align: center;
+    
+}
+.footer-sec {
+    padding-top: 50px;
+}
